@@ -1,0 +1,44 @@
+h1 {
+	text-align: center;
+	font-size: 4em;
+	margin-bottom: 0.3em;
+}
+
+h4 {
+	text-align: center;
+}
+
+
+form {
+	vertical-align: middle;
+	text-align: center;
+}
+p {
+	display: none;
+	text-align: center;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+.hede {
+  min-height: 100%;
+  margin-bottom: -50px;
+}
+.footer,
+.push {
+  height: 50px;
+}
+body {
+	background-color: grey;
+}
